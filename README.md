@@ -1,0 +1,2 @@
+# Calculadora-App
+Calculadora Mensual Calculadora Mensual es una app Flutter para gestionar tus ingresos y gastos de cada mes, totalmente offline. Registra ingresos y gastos por mes. Clasifica gastos por categorías. Marca gastos importantes que aparecen en todos los meses. Visualiza tu saldo y gasto total de forma clara. Interfaz moderna, con modo oscuro y menús intuitivos. Ideal para llevar el control de tus finanzas personales de manera simple y sin conexión.
